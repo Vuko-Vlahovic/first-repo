@@ -3,7 +3,7 @@
 #include "Warrior.h"
 using namespace std;
 
-int main()
+MAINFUNC
 {
 	cout << "perfect";
 
