@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "Monster.h"
+#include "Warrior.h"
 using namespace std;
 
 int main()
